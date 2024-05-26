@@ -3,3 +3,6 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+.idea/PlayWrightProject.iml
+.idea/modules.xml
+.idea/vcs.xml
